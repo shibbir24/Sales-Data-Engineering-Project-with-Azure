@@ -13,6 +13,10 @@ The business has identified a gap in understanding customer demographics—speci
 2. **Data Filtering**: Ability to filter the data by product category, gender, and date.
 3. **User-Friendly Interface**: Stakeholders should have access to an easy-to-use interface for making queries.
 
+## System Architecture
+
+[!img1] (https://github.com/shibbir24/Sales-Data-Engineering-Project-with-Azure/blob/main/system.webp)
+
 ## Solution Overview
 
 To meet these requirements, the solution is broken down into the following components:
