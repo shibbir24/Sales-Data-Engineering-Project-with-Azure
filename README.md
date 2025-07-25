@@ -15,7 +15,7 @@ The business has identified a gap in understanding customer demographics—speci
 
 ## System Architecture
 
-[!img1] (https://github.com/shibbir24/Sales-Data-Engineering-Project-with-Azure/blob/main/system.webp)
+![System](https://raw.githubusercontent.com/shibbir24/Sales-Data-Engineering-Project-with-Azure/main/system.webp)
 
 ## Solution Overview
 
